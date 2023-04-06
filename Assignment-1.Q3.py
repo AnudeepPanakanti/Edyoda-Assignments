@@ -1,6 +1,6 @@
 # Python program to count odd and even numbers of a series
 
-a = [2,4,6,10,21,45,5,76,93,91,11,31] 
+a=eval(input("Enter the numbers : "))
 
 even=0
 odd=0
