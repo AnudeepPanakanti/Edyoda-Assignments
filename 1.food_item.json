@@ -1,0 +1,36 @@
+{
+    "food_item": [
+      {
+        "Food ID": 1,
+        "Name": "Tandoori Chicken",
+        "Quantity": "250gm",
+        "Price": 400,
+        "Discount": 20,
+        "Stock": 12
+      },
+      {
+        "Food ID": 2,
+        "Name": "Veg Vurger",
+        "Quantity": "1 piece",
+        "Price": 200,
+        "Discount": 10,
+        "Stock": 10
+      },
+      {
+        "Food ID": 3,
+        "Name": "Truffle Cake",
+        "Quantity": "500gm",
+        "Price": 380,
+        "Discount": 5,
+        "Stock": 8
+      },
+      {
+        "Food ID": 4,
+        "Name": "Lassi",
+        "Quantity": "200ml",
+        "Price": 80,
+        "Discount": 5,
+        "Stock": 20
+      }
+     ]
+  }
