@@ -61,7 +61,8 @@ class admin :
         self.food_id = len(self.food)+1
         self.food[self.food_id] = self.item
         with open("food_item.json","w") as f : 
-            json.dump(self.food,f)
+            json.dump(self.food,f,indent=4)
+        return self.food
         print("Item added successfully")
 
     def remove_food_items(self) : 
