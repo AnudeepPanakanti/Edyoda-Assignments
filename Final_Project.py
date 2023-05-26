@@ -87,6 +87,8 @@ class admin :
 
 x = admin()
 x.add_food_items()
+x.add_food_items()
+x.add_food_items()
 x.remove_food_items()
 x.view_food_items()
 x.add_food_item()
